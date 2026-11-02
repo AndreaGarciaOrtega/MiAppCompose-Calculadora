@@ -1,0 +1,21 @@
+<resources>
+    <color name="bg">#AECDE3</color>
+    <color name="display_bg">#FFFFFF</color>
+    <color name="display_text">#9B7BB8</color>
+    <color name="key_bg">#A58EB5</color>
+    <color name="key_text">#FFF3C4</color>
+    <color name="equals_bg">#FFD1EA</color>
+    <color name="equals_text">#6B2FA0</color>
+    <color name="accent">#6B2FA0</color>
+    <color name="icon">#FFF3C4</color>
+
+    <color name="bg_noche">#0B1F3A</color>
+    <color name="display_bg_noche">#313B6B</color>
+    <color name="display_text_noche">#9B7BB8</color>
+    <color name="key_bg_noche">#8B72A6</color>
+    <color name="key_text_noche">#FFF3C4</color>
+    <color name="equals_bg_noche">#8F6F6B</color>
+    <color name="equals_text_noche">#FFF3C4</color>
+    <color name="accent_noche">#B08CE0</color>
+    <color name="icon_noche">#C9B4F0</color>
+</resources>

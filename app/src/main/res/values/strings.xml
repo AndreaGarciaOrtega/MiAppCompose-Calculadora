@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Calk</string>
+    <string name="welcome_title">¡Bienvenido/a a Calk!</string>
+    <string name="welcome_author">Creado por Andrea G 2ºDAM</string>
+    <string name="start">Empieza a calcular</string>
+    <string name="zero">0</string>
+    <string name="comma">,</string>
+    <string name="divide">÷</string>
+    <string name="multiply">×</string>
+    <string name="minus">−</string>
+    <string name="plus">+</string>
+    <string name="equals">=</string>
+    <string name="percent">%</string>
+    <string name="open_par">(</string>
+    <string name="close_par">)</string>
+    <string name="ac">AC</string>
+    <string name="c">C</string>
+    <string name="backspace_symbol">⌫</string>
+    <string name="cd_back">Salir</string>
+    <string name="cd_theme">Cambiar modo día/noche</string>
+    <string name="cd_settings">Ajustes</string>
+    <string name="menu_help">Ayuda</string>
+    <string name="menu_about">Acerca de</string>
+    <string name="menu_exit">Salir</string>
+    <string name="help_title">Ayuda</string>
+    <string name="help_text">• Pulsa los números y operadores para escribir la operación.\n• C borra el último número.\n• AC borra todo.\n• ⌫ borra el último carácter.\n• La luna/sol cambia entre modo día y noche.\n• Mantén pulsado un botón para ver su ayuda.\n\nEn esta versión la calculadora aún no calcula.</string>
+    <string name="about_text">Calk v1.0\nCreado por Andrea G, 2ºDAM</string>
+    <string name="soon">Próximamente: la calculadora aún no calcula</string>
+    <string name="tip_ac">Borra toda la operación</string>
+    <string name="tip_c">Borra el último número</string>
+    <string name="tip_back">Borra el último carácter</string>
+    <string name="tip_equals">Calcula el resultado</string>
+    <string name="tip_percent">Porcentaje</string>
+    <string name="tip_comma">Separador decimal</string>
+    <string name="tip_par">Paréntesis</string>
+    <string name="bye_title">¡Hasta pronto!</string>
+    <string name="bye_text">Gracias por usar Calk</string>
+    <string name="bye_again">Volver a empezar</string>
+    <string name="bye_exit">Cerrar aplicación</string>
+</resources>
